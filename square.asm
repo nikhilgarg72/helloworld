@@ -1,4 +1,4 @@
-DATA SEGMENT;ags
+DATA SEGMENT;agsas
 A DB ?
 RES DW ?
 NXT_LINE DB 10,13,'$'
